@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Prathamesh. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/6d884fe09d90b1bac096df349d7b7b38/tumblr_osc29nRP4z1snxikko1_500.gifv" width="500"/>
+<img align="right" alt="GIF" src="https://drive.google.com/file/d/1-1W6zn4k7xvoMzF0mEh-muH_-rE50YxG/view?usp=sharing" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
