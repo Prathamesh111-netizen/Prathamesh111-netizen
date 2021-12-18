@@ -72,7 +72,7 @@
 ➡️ [more blog posts...](https://codestackr.com)
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh111-netizen)](https://github.com/anuraghazra/github-readme-stats)
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
