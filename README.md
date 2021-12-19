@@ -11,7 +11,8 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of Tea can be the ultimate solution for any stress. 
 
-
+<br>
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Prathamesh111-netizen&show_icons=true&theme=tokyonight" width="250"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh111-netizen&show_icons=true&theme=tokyonight)
 
 
