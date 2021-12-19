@@ -12,7 +12,7 @@
 - ☕ &nbsp; I belive, a perfect cup of Tea can be the ultimate solution for any stress. 
 
 <hr>
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Prathamesh111-netizen&show_icons=true&theme=tokyonight" width="350"/>
+<!-- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Prathamesh111-netizen&show_icons=true&theme=tokyonight" width="350"/> -->
 <img  alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh111-netizen&layout=compact" width="350"/>
 
 
