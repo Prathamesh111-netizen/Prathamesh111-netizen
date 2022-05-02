@@ -10,6 +10,7 @@
 - 🌱 &nbsp; Enthusiast in Data Science and ML-AI .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of Tea can be the ultimate solution for any stress. 
+- Contact me : 2002pratham1109@gmail.com
 
 <hr>
 <!-- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Prathamesh111-netizen&show_icons=true&theme=tokyonight" width="350"/> -->
