@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Prathamesh. </h2>
+<h2> Hey there! I'm Prathamesh Pawar. </h2>
 <img align="right" alt="GIF" src="https://drive.google.com/uc?export=view&id=1s1dTbllENdMMdKe7EL3lTV6grtCwbzl8" width="250"/>
  
 <h3> 👨🏻‍💻 About Me </h3>
